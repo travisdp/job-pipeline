@@ -1,0 +1,14 @@
+# Career pages to monitor. Add/remove freely.
+targets:
+  - name: Systerel
+    url: https://www.systerel.fr/actualites/type-offres/offres-emploi/
+  - name: IKOS
+    url: https://www.ikosconsulting.com/liste-offres
+  - name: CEA (emploi)
+    url: https://www.emploi.cea.fr/
+  - name: Nomadic Labs
+    url: https://www.nomadic-labs.com/careers
+  - name: Titagone
+    url: https://titagone.com/career
+  - name: Inria jobs
+    url: https://jobs.inria.fr/public/classic/en/offres
