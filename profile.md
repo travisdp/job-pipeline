@@ -2,7 +2,8 @@
 
 ## Summary
 Software engineer, 10+ years C++ (robotics, video games), several years of code
-review. Progressive specialisation in formal methods.
+review. Progressive specialisation in formal methods. Interest in the quality of
+software abstractions.
 
 ## Core skills (high weight)
 - TLA+ (model checking, proof with TLAPM) — professional context
@@ -29,7 +30,7 @@ Open to CDI; cautious on short CDD.
 
 ## Scoring guidance
 5 = formal methods core role (TLA+/B/Event-B/Coq/Rocq/proof), location fits.
-4 = strong formal-methods or verification role, minor gaps.
-3 = adjacent (critical systems, PL, verification) where FM is a plus.
-2 = C++/systems role with little FM content.
-0-1 = unrelated, or requires a hard blocker (e.g. mandatory clearance, senior Ada-only).
+4 = strong formal-methods or verification role, minor gaps, location fits.
+3 = adjacent (critical systems, PL, verification) where FM is a plus, location fits.
+2 = C++/systems role with little FM content, location fits.
+0-1 = location doesn't fit, or unrelated, or requires a hard blocker (e.g. management position, senior Ada-only).
