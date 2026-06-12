@@ -3,7 +3,7 @@ targets:
   - name: Systerel
     url: https://www.systerel.fr/actualites/type-offres/offres-emploi/
   - name: IKOS
-    url: https://www.ikosconsulting.com/liste-offres
+    url: https://www.ikosconsulting.com/nos-offres?localisation=75
   - name: CEA (emploi)
     url: https://www.emploi.cea.fr/
   - name: Nomadic Labs
