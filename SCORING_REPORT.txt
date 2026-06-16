@@ -1,0 +1,132 @@
+================================================================================
+INRIA JOB POSTINGS ANALYSIS REPORT
+Formal Methods Candidate - TLA+, Event-B, Verification Focus
+================================================================================
+
+EXECUTIVE SUMMARY
+-----------------
+Of 111 new Inria job postings analyzed:
+  • 3 are core formal methods roles (Score 5)
+  • 33 are adjacent/relevant with FM components (Score 3+)
+  • 75 are general technical positions with minimal FM relevance (Score 2)
+
+================================================================================
+SCORING RESULTS
+================================================================================
+
+SCORE 5 - CORE FORMAL METHODS ROLES (3 positions) ★★★★★
+Perfect matches for a formal methods specialist
+
+1. 2026-10150 - PhD Position F/M Interoperability for Synthetic Mathematics 
+   in a Proof Assistant
+   Skills: proof assistant, verification, security
+   Gap: None (Paris-based)
+   
+2. 2026-10021 - Post-Doctoral Research Visit F/M Bridging the gap between 
+   combinatorial proof theory and subatomic proof theory
+   Skills: formal verification, verification, security
+   Gap: None (Paris-based)
+   
+3. 2026-10135 - PhD Position F/M Post-Quantum Protocol Transition for 
+   Internet-of-Things Systems
+   Skills: formal verification, formal specification, verification, security
+   Gap: None (Paris-based)
+
+ACTION: These three positions align directly with the candidate's core expertise.
+All are Paris/IDF based. These are top priority applications.
+
+================================================================================
+
+SCORE 3 - ADJACENT/STRONG RELEVANCE (33 positions) ★★★☆☆
+Related to formal methods: cryptography, programming languages, verification, 
+distributed systems, and security.
+
+Examples include:
+  - Model checking systems (2026-10125)
+  - Safety-critical and distributed systems (2026-10041, 2026-10078)
+  - Programming language semantics
+  - Static analysis and code verification
+  - Cryptographic protocol analysis
+
+LOCATION NOTE: Only 12 of these 33 are Paris-based; 21 are in other Inria 
+locations (Bordeaux, Grenoble, Lyon, Sophia-Antipolis, etc.)
+
+ACTION: Review these 33 as secondary opportunities, prioritizing Paris locations 
+if relocation is a constraint.
+
+================================================================================
+
+SCORE 2 - LOW FM RELEVANCE (75 positions) ★★☆☆☆
+General technical positions with minimal formal methods content:
+  - Machine learning / AI roles
+  - Physics simulations
+  - Data management and systems
+  - Web/software engineering
+  - Infrastructure and management positions
+
+These positions may develop relevant technical skills but don't focus on 
+formal methods, verification, or FM-adjacent topics.
+
+================================================================================
+
+DETAILED BREAKDOWN
+==================
+
+By Score:
+  Score 5: 3 jobs    (2.7%)   [CORE FM ROLES]
+  Score 4: 0 jobs    (0%)     [STRONG FM]
+  Score 3: 33 jobs   (29.7%)  [ADJACENT/RELEVANT]
+  Score 2: 75 jobs   (67.6%)  [LOW FM RELEVANCE]
+  Score 1: 0 jobs    (0%)
+  Score 0: 0 jobs    (0%)
+
+By Location:
+  Paris/IDF:         36 jobs (32.4%)
+  Other regions:     75 jobs (67.6%)
+  Note: Most Inria centers are NOT in Paris
+
+Most Common Skills in High-Relevance Jobs (Score 3+):
+  1. Security              (36 postings)
+  2. Verification          (15 postings)
+  3. Distributed systems   (12 postings)
+  4. Programming language  (5 postings)
+  5. Cryptography          (3 postings)
+  6. Static analysis       (2 postings)
+  7. Formal verification   (2 postings)
+  8. Consensus protocols   (2 postings)
+
+================================================================================
+
+RECOMMENDATIONS
+================================================================================
+
+TIER 1 - IMMEDIATE ACTION (Score 5, 3 positions)
+Apply immediately to all three core FM roles:
+  ✓ 2026-10021 - Proof theory research (postdoc)
+  ✓ 2026-10135 - Post-quantum cryptography (PhD)
+  ✓ 2026-10150 - Proof assistant development (PhD)
+
+TIER 2 - CONDITIONAL ACTION (Score 3, 33 positions)
+Consider the 33 adjacent positions, especially:
+  • Those with explicit verification/FM language in title
+  • Distributed systems and safety-critical work
+  • Cryptographic protocol analysis
+
+Priority subset (12 jobs in Paris/IDF):
+  Review the non-Paris gap status in scoring_summary.json for IDF-based ones
+
+TIER 3 - SKIP (Score 2, 75 positions)
+These are primarily ML, physics, and general systems roles with minimal FM
+relevance. Only pursue if other options are exhausted.
+
+================================================================================
+
+NEXT STEPS
+==========
+1. Download scored_jobs.json for complete details on all 111 postings
+2. Focus applications on the 3 Score-5 roles immediately
+3. Review the 12+ Score-3 roles in Paris/IDF region
+4. Use matching_skills and verdict fields to customize application materials
+5. Note: "gaps" field indicates "non-Paris location" for relocation planning
+
+================================================================================

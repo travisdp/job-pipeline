@@ -1,0 +1,1366 @@
+{
+  "metadata": {
+    "total_postings": 111,
+    "analysis_date": "2026-06-16",
+    "candidate_profile": {
+      "core_skills": [
+        "TLA+",
+        "Event-B",
+        "formal methods",
+        "verification"
+      ],
+      "interests": [
+        "formal verification",
+        "programming languages",
+        "distributed systems",
+        "critical/safety-critical systems"
+      ]
+    },
+    "scoring_scale": {
+      "5": "Core FM role (TLA+/B/proof assistant work)",
+      "4": "Strong FM-related verification/formal methods",
+      "3": "Adjacent (cryptography, PL, formal verification)",
+      "2": "Some technical relevance but low FM content",
+      "1": "Location bad + some relevance",
+      "0": "Non-technical or irrelevant"
+    }
+  },
+  "distribution": {
+    "score_5": 3,
+    "score_4": 0,
+    "score_3": 33,
+    "score_2": 75,
+    "score_1": 0,
+    "score_0": 0
+  },
+  "recommendations": {
+    "perfect_matches": [
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10150",
+        "title": "2026-10150 - PhD Position F/M Interoperability for Synthetic Mathematics in a Proof Assistant",
+        "score": 5,
+        "matching_skills": "security, verification, proof assistant",
+        "gaps": "",
+        "verdict": "Core FM role"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10021",
+        "title": "2026-10021 - Post-Doctoral Research Visit F/M Bridging the gap between combinatorial proof theory and subatomic proof theory",
+        "score": 5,
+        "matching_skills": "formal verification, security, verification",
+        "gaps": "",
+        "verdict": "Core FM role"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10135",
+        "title": "2026-10135 - PhD Position F/M Post-Quantum Protocol Transition for Internet-of-Things Systems",
+        "score": 5,
+        "matching_skills": "formal verification, security, verification, formal specification",
+        "gaps": "",
+        "verdict": "Core FM role"
+      }
+    ],
+    "strong_adjacent": [
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10150",
+        "title": "2026-10150 - PhD Position F/M Interoperability for Synthetic Mathematics in a Proof Assistant",
+        "score": 5,
+        "matching_skills": "security, verification, proof assistant",
+        "gaps": "",
+        "verdict": "Core FM role"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09952",
+        "title": "2026-09952 - Post-Doctoral Research Visit F/M Physics-Informed Learning Models for Forecasting E-Flexibility in Electric Vehicles (EVs)",
+        "score": 3,
+        "matching_skills": "security, verification",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10048",
+        "title": "2026-10048 - DAE-based Contracts",
+        "score": 3,
+        "matching_skills": "security, verification",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10021",
+        "title": "2026-10021 - Post-Doctoral Research Visit F/M Bridging the gap between combinatorial proof theory and subatomic proof theory",
+        "score": 5,
+        "matching_skills": "formal verification, security, verification",
+        "gaps": "",
+        "verdict": "Core FM role"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10008",
+        "title": "2026-10008 - Research Engineer / Postdoctoral Researcher @Grenoble: Conditional Generative PDE Surrogates for Ocean Model",
+        "score": 3,
+        "matching_skills": "security, verification",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10159",
+        "title": "2026-10159 - PhD Position F/M Multi-Perspective Data Interlinking: Combining Standpoint Logic and Link Keys for the Digital Twin of France",
+        "score": 3,
+        "matching_skills": "security, consensus, verification",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10152",
+        "title": "2026-10152 - Post-Doctoral Research Visit F/M Adapting vision-language and multi-modal large language models",
+        "score": 3,
+        "matching_skills": "security, verification",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10138",
+        "title": "2026-10138 - Engineer Position - Development of a Myoelectric Hand Prosthesis - M/F",
+        "score": 3,
+        "matching_skills": "security, verification",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10041",
+        "title": "2026-10041 - Post-Doctoral Research Visit F/M Safe Planning for Markov Decision Processes",
+        "score": 3,
+        "matching_skills": "security, verification",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09990",
+        "title": "2026-09990 - eMob-Twin: A Digital Twin for Electromobility Flexibility Forecast  Software Engineer",
+        "score": 3,
+        "matching_skills": "security, verification",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10135",
+        "title": "2026-10135 - PhD Position F/M Post-Quantum Protocol Transition for Internet-of-Things Systems",
+        "score": 5,
+        "matching_skills": "formal verification, security, verification, formal specification",
+        "gaps": "",
+        "verdict": "Core FM role"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10125",
+        "title": "2026-10125 - Doctorant F/H Model-Checking Linear Dynamical Systems under Floating-Point Rounding",
+        "score": 3,
+        "matching_skills": "security, verification",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10110",
+        "title": "2026-10110 - PhD Position F/M Ontologies for research processes",
+        "score": 3,
+        "matching_skills": "security, verification",
+        "gaps": "",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10097",
+        "title": "2026-10097 - PhD Position F/M Physically-based skin models for 3D reconstruction and temporal tracking from multi-video observations",
+        "score": 3,
+        "matching_skills": "security, verification",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10096",
+        "title": "2026-10096 - Research Engineer F/M on Longitudinal Image-based Measurement of Scoliosis Change",
+        "score": 3,
+        "matching_skills": "security, verification",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      }
+    ],
+    "all_score_3_plus": [
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10054",
+        "title": "2026-10054 - Post-Doctoral Research Visit F/M Distributed Learning for Streaming Data",
+        "score": 3,
+        "matching_skills": "security, cryptography",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09923",
+        "title": "2026-09923 - Post-Doctoral Research Visit F/M Distributed Machine Learning at the Network Edge",
+        "score": 3,
+        "matching_skills": "security, distributed system",
+        "gaps": "",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10163",
+        "title": "2026-10163 - Post-Doctoral Research Visit F/M Study of Fourier Analysis in Spheres and Applications to Cryptography",
+        "score": 3,
+        "matching_skills": "security, cryptography",
+        "gaps": "",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2025-08759",
+        "title": "2025-08759 - Post-Doctoral Research Visit F/M Model placement in inference delivery networks",
+        "score": 3,
+        "matching_skills": "security, programming language",
+        "gaps": "",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10150",
+        "title": "2026-10150 - PhD Position F/M Interoperability for Synthetic Mathematics in a Proof Assistant",
+        "score": 5,
+        "matching_skills": "security, verification, proof assistant",
+        "gaps": "",
+        "verdict": "Core FM role"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09952",
+        "title": "2026-09952 - Post-Doctoral Research Visit F/M Physics-Informed Learning Models for Forecasting E-Flexibility in Electric Vehicles (EVs)",
+        "score": 3,
+        "matching_skills": "security, verification",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10048",
+        "title": "2026-10048 - DAE-based Contracts",
+        "score": 3,
+        "matching_skills": "security, verification",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09823",
+        "title": "2026-09823 - Agentic AI for resource allocation in future networks",
+        "score": 3,
+        "matching_skills": "security, distributed system",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10105",
+        "title": "2026-10105 - Post-Doctoral Research Visit F/M Benchmarks for Evaluating LLMs for Lean Elegance",
+        "score": 3,
+        "matching_skills": "security, static analysis",
+        "gaps": "",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10126",
+        "title": "2026-10126 - Orchestration of AI Services on Telco Cloud Platforms: Dynamic Models, Energy Efficiency and Edge-Cloud Deployment",
+        "score": 3,
+        "matching_skills": "security, distributed system",
+        "gaps": "",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10007",
+        "title": "2026-10007 - Post-Doctoral Research Visit F/M Quantum causality in symmetry-constrained systems",
+        "score": 3,
+        "matching_skills": "security, cryptography",
+        "gaps": "",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10021",
+        "title": "2026-10021 - Post-Doctoral Research Visit F/M Bridging the gap between combinatorial proof theory and subatomic proof theory",
+        "score": 5,
+        "matching_skills": "formal verification, security, verification",
+        "gaps": "",
+        "verdict": "Core FM role"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10071",
+        "title": "2026-10071 - PhD Position F/M PhD Position F/M: How does Reasoning with LLM Help Repair Vulnerabilities in Repo-level Software Projects?",
+        "score": 3,
+        "matching_skills": "security, programming language, static analysis",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10008",
+        "title": "2026-10008 - Research Engineer / Postdoctoral Researcher @Grenoble: Conditional Generative PDE Surrogates for Ocean Model",
+        "score": 3,
+        "matching_skills": "security, verification",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10159",
+        "title": "2026-10159 - PhD Position F/M Multi-Perspective Data Interlinking: Combining Standpoint Logic and Link Keys for the Digital Twin of France",
+        "score": 3,
+        "matching_skills": "security, consensus, verification",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10152",
+        "title": "2026-10152 - Post-Doctoral Research Visit F/M Adapting vision-language and multi-modal large language models",
+        "score": 3,
+        "matching_skills": "security, verification",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10066",
+        "title": "2026-10066 - LPWAN wireless Gateway Open-Source Embedded Rust Prototyping",
+        "score": 3,
+        "matching_skills": "security, consensus",
+        "gaps": "",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10138",
+        "title": "2026-10138 - Engineer Position - Development of a Myoelectric Hand Prosthesis - M/F",
+        "score": 3,
+        "matching_skills": "security, verification",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2025-09182",
+        "title": "2025-09182 - Post-Doctoral Research Visit F/M Scheduling Data-Intensive Applications in P2P Environments",
+        "score": 3,
+        "matching_skills": "blockchain, security, distributed system",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2025-09329",
+        "title": "2025-09329 - PhD Position F/M Cost and Performance-Efficient Caching for Massively Distributed Systems",
+        "score": 3,
+        "matching_skills": "security, distributed system",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2025-09315",
+        "title": "2025-09315 - PhD Position F/M Optimizing serverless computing in the edge-cloud continuum",
+        "score": 3,
+        "matching_skills": "security, distributed system",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2025-09183",
+        "title": "2025-09183 - Post-Doctoral Research Visit F/M Data management and job scheduling for Geo-distributed Workflows",
+        "score": 3,
+        "matching_skills": "security, distributed system",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10041",
+        "title": "2026-10041 - Post-Doctoral Research Visit F/M Safe Planning for Markov Decision Processes",
+        "score": 3,
+        "matching_skills": "security, verification",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10062",
+        "title": "2026-10062 - Signal Processing / Radio research engineer for CorteXlab",
+        "score": 3,
+        "matching_skills": "security, programming language",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09990",
+        "title": "2026-09990 - eMob-Twin: A Digital Twin for Electromobility Flexibility Forecast  Software Engineer",
+        "score": 3,
+        "matching_skills": "security, verification",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10127",
+        "title": "2026-10127 - PhD Position F/M University of Toulouse - The levers of sobriety and conviviality and their influence on algorithmic decision models",
+        "score": 3,
+        "matching_skills": "security, distributed system",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10135",
+        "title": "2026-10135 - PhD Position F/M Post-Quantum Protocol Transition for Internet-of-Things Systems",
+        "score": 5,
+        "matching_skills": "formal verification, security, verification, formal specification",
+        "gaps": "",
+        "verdict": "Core FM role"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10125",
+        "title": "2026-10125 - Doctorant F/H Model-Checking Linear Dynamical Systems under Floating-Point Rounding",
+        "score": 3,
+        "matching_skills": "security, verification",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10110",
+        "title": "2026-10110 - PhD Position F/M Ontologies for research processes",
+        "score": 3,
+        "matching_skills": "security, verification",
+        "gaps": "",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10078",
+        "title": "2026-10078 - PhD Position F/M Frugal Distributed Training with Volatile Resources",
+        "score": 3,
+        "matching_skills": "security, distributed system",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10099",
+        "title": "2026-10099 - PhD Position F/M Concurrent Autonomic Control for the Computing Continuum",
+        "score": 3,
+        "matching_skills": "security, distributed system",
+        "gaps": "",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10106",
+        "title": "2026-10106 - Apprentissage - Famille d\u2019outils de g\u00e9n\u00e9ration de diagrammes \u00e0 partir de mod\u00e8les d\u2019Infrastructure-as-Code (H/F)",
+        "score": 3,
+        "matching_skills": "security, distributed system",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09980",
+        "title": "2026-09980 - PhD Position F/M When Our Avatars Transform Us: Enhancing the VR User Experience by Modifying Avatar Movement",
+        "score": 3,
+        "matching_skills": "security, programming language",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10097",
+        "title": "2026-10097 - PhD Position F/M Physically-based skin models for 3D reconstruction and temporal tracking from multi-video observations",
+        "score": 3,
+        "matching_skills": "security, verification",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10061",
+        "title": "2026-10061 - Software Development Engineer specialized in embedded systems for IoT SLICES-FR (F/M)",
+        "score": 3,
+        "matching_skills": "security, programming language, distributed system",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      },
+      {
+        "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10096",
+        "title": "2026-10096 - Research Engineer F/M on Longitudinal Image-based Measurement of Scoliosis Change",
+        "score": 3,
+        "matching_skills": "security, verification",
+        "gaps": "non-Paris location",
+        "verdict": "FM adjacent with relevant skills"
+      }
+    ]
+  },
+  "all_postings": [
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10054",
+      "title": "2026-10054 - Post-Doctoral Research Visit F/M Distributed Learning for Streaming Data",
+      "score": 3,
+      "matching_skills": "security, cryptography",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09923",
+      "title": "2026-09923 - Post-Doctoral Research Visit F/M Distributed Machine Learning at the Network Edge",
+      "score": 3,
+      "matching_skills": "security, distributed system",
+      "gaps": "",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10034",
+      "title": "2026-10034 - Post-Doctoral Research Visit F/M Post-doctoral Researcher - Expressivity of Implicit neural networks for data-driven stability and safety certificates",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10057",
+      "title": "2026-10057 - Post-Doctoral Research Visit F/M From the ocean to the stars: SciML to accelerate scientific research",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10130",
+      "title": "2026-10130 - PhD Position F/M Defending deployed AI models: manipulation as a countermeasure",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10163",
+      "title": "2026-10163 - Post-Doctoral Research Visit F/M Study of Fourier Analysis in Spheres and Applications to Cryptography",
+      "score": 3,
+      "matching_skills": "security, cryptography",
+      "gaps": "",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10161",
+      "title": "2026-10161 - PhD Position F/M Study of Optimal Solutions of Delsarte&#039;s Linear Program and Application to Regev&#039;s Reduction",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09924",
+      "title": "2026-09924 - Post-Doctoral Research Visit F/M From AI audits to AI security: an information gain hierarchy",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10059",
+      "title": "2026-10059 - PhD Position F/M PhD - Robust few-shot learning for foundational model in CT imaging",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10053",
+      "title": "2026-10053 - Post-Doctoral Research Visit F/M Embedded Systems, Neural Networks and Privacy-preserving Embedded Edge AI Techniques",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10067",
+      "title": "2026-10067 - Assistant-e de service",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10069",
+      "title": "2026-10069 - Doctorant F/H Perception et interaction via des Avatars en r\u00e9alit\u00e9 virtuelle",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10094",
+      "title": "2026-10094 - PhD Position F/M PhD - Building a foundational model for abdominal CT imaging",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2025-08759",
+      "title": "2025-08759 - Post-Doctoral Research Visit F/M Model placement in inference delivery networks",
+      "score": 3,
+      "matching_skills": "security, programming language",
+      "gaps": "",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09997",
+      "title": "2026-09997 - PhD Position F/M Generalized Wasserstein barycenters and applications",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10150",
+      "title": "2026-10150 - PhD Position F/M Interoperability for Synthetic Mathematics in a Proof Assistant",
+      "score": 5,
+      "matching_skills": "security, verification, proof assistant",
+      "gaps": "",
+      "verdict": "Core FM role"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09979",
+      "title": "2026-09979 - Doctorant F/H Analyse biom\u00e9canique in situ et reconstruction 3D holistique (athl\u00e8te-mat\u00e9riel-environnement) pour l\u2019optimisation de la performance en voile de comp\u00e9tition.",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09926",
+      "title": "2026-09926 - PhD Position F/M Multi-Fidelity Scientific Machine Learning with Heterogeneous Inputs",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10174",
+      "title": "2026-10174 - Charg\u00e9 d\u2019affaires mobili\u00e8res et patrimoniales H/F",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09909",
+      "title": "2026-09909 - Post-Doctoral Research Visit F/M Robust optimisation methods for sparse-sensor placement for fault detection in vibrating mechanical structures",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09952",
+      "title": "2026-09952 - Post-Doctoral Research Visit F/M Physics-Informed Learning Models for Forecasting E-Flexibility in Electric Vehicles (EVs)",
+      "score": 3,
+      "matching_skills": "security, verification",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09988",
+      "title": "2026-09988 - Post-Doctoral Research Visit F/M Large Physics Models",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10040",
+      "title": "2026-10040 - PhD Position F/M PhD Position - Structural Methods for Mixed Model/Data Digital Twin Engineering",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10048",
+      "title": "2026-10048 - DAE-based Contracts",
+      "score": 3,
+      "matching_skills": "security, verification",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10047",
+      "title": "2026-10047 - PhD Position F/M Filippov Solutions for Discontinuous Differential-Algebraic Equations (DAEs): Control and Simulation",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09823",
+      "title": "2026-09823 - Agentic AI for resource allocation in future networks",
+      "score": 3,
+      "matching_skills": "security, distributed system",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10077",
+      "title": "2026-10077 - Project Manager for Digital Twins of Territories",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10105",
+      "title": "2026-10105 - Post-Doctoral Research Visit F/M Benchmarks for Evaluating LLMs for Lean Elegance",
+      "score": 3,
+      "matching_skills": "security, static analysis",
+      "gaps": "",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10114",
+      "title": "2026-10114 - Post-Doctoral Research Visit F/M Crowd dynamics data acquisition and processing for large-scale dataset construction",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10115",
+      "title": "2026-10115 - Post-Doctoral Research Visit F/M Learning crowd dynamics from real-world data",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10126",
+      "title": "2026-10126 - Orchestration of AI Services on Telco Cloud Platforms: Dynamic Models, Energy Efficiency and Edge-Cloud Deployment",
+      "score": 3,
+      "matching_skills": "security, distributed system",
+      "gaps": "",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09875",
+      "title": "2026-09875 - Responsable du p\u00f4le pilotage des processus et des campagnes",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09808",
+      "title": "2026-09808 - PhD Position F/M Dynamic Approximate Computing for Energy-Efficient AI Hardware Accelerators",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09830",
+      "title": "2026-09830 - PhD Position F/M Visuo-tactile control for manipulating deformable objects with robotic arms combining tactile perception and photometric visual servoing",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10007",
+      "title": "2026-10007 - Post-Doctoral Research Visit F/M Quantum causality in symmetry-constrained systems",
+      "score": 3,
+      "matching_skills": "security, cryptography",
+      "gaps": "",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10021",
+      "title": "2026-10021 - Post-Doctoral Research Visit F/M Bridging the gap between combinatorial proof theory and subatomic proof theory",
+      "score": 5,
+      "matching_skills": "formal verification, security, verification",
+      "gaps": "",
+      "verdict": "Core FM role"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10071",
+      "title": "2026-10071 - PhD Position F/M PhD Position F/M: How does Reasoning with LLM Help Repair Vulnerabilities in Repo-level Software Projects?",
+      "score": 3,
+      "matching_skills": "security, programming language, static analysis",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10006",
+      "title": "2026-10006 - Research engineer in biostatistics",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10008",
+      "title": "2026-10008 - Research Engineer / Postdoctoral Researcher @Grenoble: Conditional Generative PDE Surrogates for Ocean Model",
+      "score": 3,
+      "matching_skills": "security, verification",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10111",
+      "title": "2026-10111 - Software engineer for MAPIE \u2013 P16 (M/F)",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10176",
+      "title": "2026-10176 - Research engineer, greenhouse gas emissions retrieval by satellite and uncertainty quantification (24 months)",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10170",
+      "title": "2026-10170 - Post-Doctoral Research Visit F/M Post-Doctoral Research F/M in energetic cost of fault-tolerant quantum computing",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10162",
+      "title": "2026-10162 - Stage Ing\u00e9nieur IA en computer vision \u2013 Inria Startup Studio",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10159",
+      "title": "2026-10159 - PhD Position F/M Multi-Perspective Data Interlinking: Combining Standpoint Logic and Link Keys for the Digital Twin of France",
+      "score": 3,
+      "matching_skills": "security, consensus, verification",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10149",
+      "title": "2026-10149 - PhD Position F/M PhD Thesis: Speech Enhancement with Distributed Microphone Arrays by Combining Acoustics and Machine Learning",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10147",
+      "title": "2026-10147 - Responsable de plateforme de donn\u00e9es sur l\u2019antibior\u00e9sistance : maintenance, exploitation et analyse de donn\u00e9es",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10152",
+      "title": "2026-10152 - Post-Doctoral Research Visit F/M Adapting vision-language and multi-modal large language models",
+      "score": 3,
+      "matching_skills": "security, verification",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10160",
+      "title": "2026-10160 - Post-Doctorant F/H Mod\u00e9lisation des effets de la stimulation \u00e9lectrique appliqu\u00e9e \u00e0 la substance blanche du cerveau: mod\u00e8les biophysiques d&#039;axones, \u00e9quations de c\u00e2bles en tenant compte des contraintes anatomiques",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10164",
+      "title": "2026-10164 - Post-Doctoral Research Visit F/M Multi-modal Co-Learning for sensor-specific FMs",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10153",
+      "title": "2026-10153 - Charg\u00e9/e de mission relations institutionnelles",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10066",
+      "title": "2026-10066 - LPWAN wireless Gateway Open-Source Embedded Rust Prototyping",
+      "score": 3,
+      "matching_skills": "security, consensus",
+      "gaps": "",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10173",
+      "title": "2026-10173 - Post-Doctoral Research Visit F/M Investigating the Capacities of Foundation Models for 3D Scene Creation and Editing",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10140",
+      "title": "2026-10140 - Ing\u00e9nieur H/F Anonymisation acoustique et s\u00e9mantique de la parole.",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10139",
+      "title": "2026-10139 - Ing\u00e9nieur Management de projet Domaine Agri-Agro &amp; Num\u00e9rique",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10143",
+      "title": "2026-10143 - PhD Position F/M Optimal Control and Experimental Design (Project OCARINA)",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10138",
+      "title": "2026-10138 - Engineer Position - Development of a Myoelectric Hand Prosthesis - M/F",
+      "score": 3,
+      "matching_skills": "security, verification",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10103",
+      "title": "2026-10103 - Gestionnaire paie (h/f)",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10108",
+      "title": "2026-10108 - Stage dans le cadre de l\u2019\u00e9laboration du Sch\u00e9ma Directeur D\u00e9veloppement Durable et Responsabilit\u00e9 Soci\u00e9tale &amp; Environnementale",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10011",
+      "title": "2026-10011 - Research and Development Software Engineer (Python) - Open Source Project (AI &amp; Privacy) - Montpellier",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10132",
+      "title": "2026-10132 - Post-Doctoral Research Visit F/M Structured matrices for geometric computations",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10144",
+      "title": "2026-10144 - Chef-Cheffe de produit AI Factory France",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2024-08398",
+      "title": "2024-08398 - Post-Doctoral Research Visit F/M Computational design of next-generation optical metasurfaces",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2025-08689",
+      "title": "2025-08689 - Development and application of  AI-based numerical modeling tools for nanophotonics",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2024-08080",
+      "title": "2024-08080 - Inverse design of an optical power splitter using a global optimization method",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2025-09212",
+      "title": "2025-09212 - Development and application of a software platform for nanophotonics",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2025-09321",
+      "title": "2025-09321 - Post-Doctoral Research Visit F/M Operator learning for the time-harmonic Maxwell equations",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2025-09182",
+      "title": "2025-09182 - Post-Doctoral Research Visit F/M Scheduling Data-Intensive Applications in P2P Environments",
+      "score": 3,
+      "matching_skills": "blockchain, security, distributed system",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2025-09329",
+      "title": "2025-09329 - PhD Position F/M Cost and Performance-Efficient Caching for Massively Distributed Systems",
+      "score": 3,
+      "matching_skills": "security, distributed system",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2025-09315",
+      "title": "2025-09315 - PhD Position F/M Optimizing serverless computing in the edge-cloud continuum",
+      "score": 3,
+      "matching_skills": "security, distributed system",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2025-09183",
+      "title": "2025-09183 - Post-Doctoral Research Visit F/M Data management and job scheduling for Geo-distributed Workflows",
+      "score": 3,
+      "matching_skills": "security, distributed system",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09937",
+      "title": "2026-09937 - Post-Doctoral Research Visit F/M Representation Learning and Clustering of Interacting Timed Systems",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09954",
+      "title": "2026-09954 - Technicien Services Techniques g\u00e9n\u00e9raux (H/F)",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10022",
+      "title": "2026-10022 - Post-Doctoral Research Visit F/M Postdoc - Visualization for Storytelling, Collaboration, and Situation Awareness across Time and Place",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09857",
+      "title": "2026-09857 - Responsable du volet projets de transfert du PTCC (F/H)",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10035",
+      "title": "2026-10035 - Post-Doctoral Research Visit F/M [DRI Campaign] Towards more engaging, dynamic and collaborative experiences for scientific presentations",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10041",
+      "title": "2026-10041 - Post-Doctoral Research Visit F/M Safe Planning for Markov Decision Processes",
+      "score": 3,
+      "matching_skills": "security, verification",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10062",
+      "title": "2026-10062 - Signal Processing / Radio research engineer for CorteXlab",
+      "score": 3,
+      "matching_skills": "security, programming language",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10085",
+      "title": "2026-10085 - PhD Position F/M Use of short distances for gradient descent in seismic imaging via full-waveform inversion",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09990",
+      "title": "2026-09990 - eMob-Twin: A Digital Twin for Electromobility Flexibility Forecast  Software Engineer",
+      "score": 3,
+      "matching_skills": "security, verification",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10112",
+      "title": "2026-10112 - Responsable du Service Transfert, Innovation et Partenariats (F/H)",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10091",
+      "title": "2026-10091 - Apprenti.e charg\u00e9.e de communication",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10090",
+      "title": "2026-10090 - Apprenti.e charg\u00e9.e de communication et m\u00e9diation scientifique",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10124",
+      "title": "2026-10124 - Doctorant F/H Mod\u00e9lisation statistique et apprentissage automatique pour le suivi de la biodiversit\u00e9 v\u00e9g\u00e9tale",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10127",
+      "title": "2026-10127 - PhD Position F/M University of Toulouse - The levers of sobriety and conviviality and their influence on algorithmic decision models",
+      "score": 3,
+      "matching_skills": "security, distributed system",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10135",
+      "title": "2026-10135 - PhD Position F/M Post-Quantum Protocol Transition for Internet-of-Things Systems",
+      "score": 5,
+      "matching_skills": "formal verification, security, verification, formal specification",
+      "gaps": "",
+      "verdict": "Core FM role"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10145",
+      "title": "2026-10145 - Doctorant F/H M\u00e9thodes de compression sparse grid et matrice hi\u00e9rarchique pour \u00e9quations int\u00e9grales",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10068",
+      "title": "2026-10068 - Responsable de Service d&#039;Exp\u00e9rimentation et de D\u00e9veloppement",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10027",
+      "title": "2026-10027 - Ing\u00e9nieur(e) R&amp;D - Navigation Autonome et Syst\u00e8mes Embarqu\u00e9s",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10125",
+      "title": "2026-10125 - Doctorant F/H Model-Checking Linear Dynamical Systems under Floating-Point Rounding",
+      "score": 3,
+      "matching_skills": "security, verification",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10100",
+      "title": "2026-10100 - Gestionnaire de projet du programme PEPR NumEco (Num\u00e9rique Eco-responsable)",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10109",
+      "title": "2026-10109 - Ing\u00e9nieur(e) de recherche en m\u00e9trologie \u00e9nerg\u00e9tique et environnementale de syst\u00e8mes informatiques distribu\u00e9s",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09999",
+      "title": "2026-09999 - Acheteur-se Public (H/F)",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10110",
+      "title": "2026-10110 - PhD Position F/M Ontologies for research processes",
+      "score": 3,
+      "matching_skills": "security, verification",
+      "gaps": "",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10078",
+      "title": "2026-10078 - PhD Position F/M Frugal Distributed Training with Volatile Resources",
+      "score": 3,
+      "matching_skills": "security, distributed system",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10076",
+      "title": "2026-10076 - PhD Position F/M Distributed Training of Machine Learning Models with Malicious Clients",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10049",
+      "title": "2026-10049 - Research Engineer Position - Java Developer - Corese Library",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10099",
+      "title": "2026-10099 - PhD Position F/M Concurrent Autonomic Control for the Computing Continuum",
+      "score": 3,
+      "matching_skills": "security, distributed system",
+      "gaps": "",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10106",
+      "title": "2026-10106 - Apprentissage - Famille d\u2019outils de g\u00e9n\u00e9ration de diagrammes \u00e0 partir de mod\u00e8les d\u2019Infrastructure-as-Code (H/F)",
+      "score": 3,
+      "matching_skills": "security, distributed system",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10092",
+      "title": "2026-10092 - Ing\u00e9nieur scientifique contractuel / Biologie et sant\u00e9, Sciences de la vie, Epid\u00e9miologie/ Approches stochastiques /",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10084",
+      "title": "2026-10084 - Assistant-e administratif-ve d\u2019\u00e9quipes de recherche",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09980",
+      "title": "2026-09980 - PhD Position F/M When Our Avatars Transform Us: Enhancing the VR User Experience by Modifying Avatar Movement",
+      "score": 3,
+      "matching_skills": "security, programming language",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10097",
+      "title": "2026-10097 - PhD Position F/M Physically-based skin models for 3D reconstruction and temporal tracking from multi-video observations",
+      "score": 3,
+      "matching_skills": "security, verification",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10061",
+      "title": "2026-10061 - Software Development Engineer specialized in embedded systems for IoT SLICES-FR (F/M)",
+      "score": 3,
+      "matching_skills": "security, programming language, distributed system",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10101",
+      "title": "2026-10101 - Post-Doctorant F/H Automatisation de la cryptalayse symmetrique",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10098",
+      "title": "2026-10098 - Post-Doctorant F/H R\u00e9seaux lin\u00e9aires profonds",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10096",
+      "title": "2026-10096 - Research Engineer F/M on Longitudinal Image-based Measurement of Scoliosis Change",
+      "score": 3,
+      "matching_skills": "security, verification",
+      "gaps": "non-Paris location",
+      "verdict": "FM adjacent with relevant skills"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10142",
+      "title": "2026-10142 - Anisotropic mesh adaptation for nonlinear dispersive water wave propagation in coastal areas",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09993",
+      "title": "2026-09993 - Responsable du service support recettes d\u00e9penses (F/H)",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2024-08283",
+      "title": "2024-08283 - Responsable du service comptabilit\u00e9 de la paie (H/F)",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-10072",
+      "title": "2026-10072 - Charg\u00e9 des Partenariats et de Projet d\u2019Innovation (CPPI) H/F",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    },
+    {
+      "url": "https://jobs.inria.fr/public/classic/en/offres/2026-09962",
+      "title": "2026-09962 - Post-Doctoral Research Visit F/M Postdoctoral position in web security, privacy, and online tracking",
+      "score": 2,
+      "matching_skills": "security",
+      "gaps": "non-Paris location",
+      "verdict": "Some technical relevance"
+    }
+  ]
+}

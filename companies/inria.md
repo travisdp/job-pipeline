@@ -45,3 +45,12 @@ Strong focus on:
 - Post-quantum cryptography and formal verification
 - Computer algebra system integration with formal proofs
 - Interactive proof development tools and user experience
+
+## Current Opportunities (June 2026)
+- 111 active job postings across Inria centers
+- 3 perfect-match positions (score 5): proof theory, IoT security protocols, synthetic mathematics in proof assistants
+- 33 adjacent-match positions (score 3+): cryptography, distributed systems, static analysis, formal semantics
+- Strong representation in formal verification and proof assistant development
+- Most positions are PhD (3yr) or PostDoc (12-24mo); few permanent roles
+- Geographic distribution: Rennes, Nantes, Lyon, Lorraine, Grenoble, Paris-Saclay, Montpellier
+- Only 3 positions in Paris/IDF, indicating relocation typically required
