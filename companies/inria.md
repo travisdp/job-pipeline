@@ -1,56 +1,32 @@
-# Inria (Institut National de Recherche en Informatique et en Automatique)
+# Inria (Institut national de recherche en sciences du numérique)
 
 ## Overview
-Inria is France's national research institute for computer science and automation, a public scientific and technical research institute under the jurisdiction of the French Ministry of Research. Inria conducts foundational and applied research in digital sciences, with a strong focus on formal methods, proof assistants, and cryptographic protocol verification.
+Inria is France's leading public research institution dedicated to digital science and technology. It operates as a national research organization with multiple research centers across France, serving as a hub for computational research, innovation, and technology transfer.
 
-## Activities
-- Foundational research in formal methods and proof assistants (Rocq, Isabelle, Lean, Agda)
-- Cryptographic protocol verification and formal semantics
-- Programming language theory and implementation
-- Static program analysis and abstract interpretation
-- Distributed systems and formal reasoning
-- Academic collaboration and PhD training
-- Technology transfer and open-source tool development
+## Core Research Areas
+- **Machine learning and artificial intelligence**: Deep learning, neural networks, foundation models
+- **Distributed systems and high-performance computing**: Federated learning, edge computing, exascale systems
+- **Cybersecurity and cryptography**: Protocol verification, formal methods in security
+- **Computational biology and neuroscience**: Scientific computing for biological systems
+- **Image processing and computer vision**: 3D reconstruction, generative models
+- **Robotics and autonomous systems**: Embodied AI, control systems
+- **Numerical modeling and scientific computing**: Physics-informed methods, inverse problems
+- **Formal methods and verification**: Proof assistants (Rocq/Coq), static analysis, model checking
 
-## Technologies & Methods
-- Rocq (formerly Coq) proof assistant and formal verification framework
-- Isabelle/HOL theorem prover
-- Squirrel proof assistant for cryptographic protocol analysis
-- TLA+ and formal specification languages
-- OCaml functional programming for formal tools
-- Type theory and dependent type systems
-- Abstract interpretation and static analysis
+## Scale & Structure
+Multiple research centers distributed across France including Rennes, Paris, Sophia Antipolis, Grenoble, Lyon, Bordeaux, Nancy (Villers-lès-Nancy), Toulouse, Montpellier, and Pau. Employs researchers at multiple levels: PhD students, postdoctoral researchers, research engineers, and administrative staff.
 
-## Reputation
-Inria is world-renowned for advancing formal methods research. Key contributions include foundational work on proof assistants, cryptographic verification, and program analysis. The institute attracts top researchers and provides exceptional opportunities for those specializing in formal verification and mathematical logic.
+## Values & Mission
+- Innovation and cutting-edge research
+- Open collaboration and scientific excellence
+- Research transfer and technology valorization
+- Contemporary priorities: sustainability, privacy-preserving technologies, edge computing, AI responsibility
 
-## Position Types
-- Fixed-term research contracts (12 months–3 years): Postdocs, temporary engineers, researchers
-- PhD positions (3 years)
-- Permanent research engineer roles (rare)
-
-## Location
-Multiple research centers across France: Rennes, Nantes, Lyon, Villers-lès-Nancy (Lorraine), Grenoble, Paris-Saclay, and others. Most centers focus on specific research domains.
+## Work Environment
+Highly prestigious research environment with strong emphasis on scientific rigor. Benefits include subsidized meals, transport reimbursement, telework flexibility, and professional development opportunities.
 
 ## Relevance to Candidate
-Exceptional match for formal methods specialization. Inria offers roles directly targeting the candidate's core expertise: Rocq proof development, cryptographic protocol verification, formal semantics, type theory, and proof assistant tool development. Positions align perfectly with interests in FM, verification, and programming language design. However, most roles are fixed-term research contracts or PhD positions rather than permanent CDI employment; relocation typically required away from Paris region.
+**High relevance**: Inria frequently posts formal methods positions including proof assistant work (Rocq/Coq), formal verification roles, and distributed systems research. Previous pipeline entries show strong alignment with candidate's TLA+, Event-B, and formal verification expertise. Recent Inria postings in this discovery round include formal methods adjacent roles (distributed systems, verification) but fewer pure formal methods positions than typical.
 
-## Size
-Large research organization with ~600+ researchers across all centers; individual team sizes typically 10-20 researchers.
-
-## Recent Trends
-Strong focus on:
-- Rocq ecosystem expansion and modernization
-- Integration of proof assistants with machine learning and LLM tools
-- Post-quantum cryptography and formal verification
-- Computer algebra system integration with formal proofs
-- Interactive proof development tools and user experience
-
-## Current Opportunities (June 2026)
-- 111 active job postings across Inria centers
-- 3 perfect-match positions (score 5): proof theory, IoT security protocols, synthetic mathematics in proof assistants
-- 33 adjacent-match positions (score 3+): cryptography, distributed systems, static analysis, formal semantics
-- Strong representation in formal verification and proof assistant development
-- Most positions are PhD (3yr) or PostDoc (12-24mo); few permanent roles
-- Geographic distribution: Rennes, Nantes, Lyon, Lorraine, Grenoble, Paris-Saclay, Montpellier
-- Only 3 positions in Paris/IDF, indicating relocation typically required
+---
+*Last updated: 2026-06-17*
