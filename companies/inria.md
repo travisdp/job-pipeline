@@ -54,3 +54,11 @@ Strong focus on:
 - Most positions are PhD (3yr) or PostDoc (12-24mo); few permanent roles
 - Geographic distribution: Rennes, Nantes, Lyon, Lorraine, Grenoble, Paris-Saclay, Montpellier
 - Only 3 positions in Paris/IDF, indicating relocation typically required
+
+## June 19, 2026 Discovery Cycle Update
+- 30 new postings identified in this cycle
+- High-match positions (score 4): 1 – Young researcher in AI for formal mathematics and proof assistants (Lean/Rocq translation)
+- Medium-match positions (score 3): 1 – Formal verification of soft automata with machine learning
+- Majority of new postings (27/30) are outside FM domain: ML/optimization research, scientific computing, bioinformatics, neuroscience, robotics, graphics
+- Geographic challenge persists: most FM-relevant roles still located outside Paris region (primarily Rennes, Villers-lès-Nancy)
+- Observation: Inria's portfolio continues to expand beyond core FM; FM-specific roles represent ~10% of total postings

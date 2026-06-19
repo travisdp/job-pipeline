@@ -29,3 +29,9 @@ Low direct relevance for formal methods specialist. Most IT positions at CEA foc
 
 ## Size
 Large research institution (~4,000+ employees across all divisions).
+
+## June 19, 2026 Discovery Cycle Update
+- 5 new postings identified in this cycle, all scored 0
+- Portfolio continues to focus on non-FM domains: intellectual property law, biomedical imaging (MRI/ultrasound), molecular biology, labor law, radiochemistry
+- Confirms pattern: CEA postings consistently outside formal methods specialization
+- No FM-relevant opportunities expected from CEA in foreseeable future
