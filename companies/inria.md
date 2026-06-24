@@ -46,11 +46,12 @@ Strong focus on:
 - Computer algebra system integration with formal proofs
 - Interactive proof development tools and user experience
 
-## Current Opportunities (June 2026)
-- 111 active job postings across Inria centers
-- 3 perfect-match positions (score 5): proof theory, IoT security protocols, synthetic mathematics in proof assistants
-- 33 adjacent-match positions (score 3+): cryptography, distributed systems, static analysis, formal semantics
+## Current Opportunities (as of June 24, 2026)
+- **Latest discovery run (2026-06-24):** 6 new high-quality FM positions identified
+  - 5 perfect-match positions (score 5): Rocq macro system engineering, proof assistant interoperability, proof theory research, post-quantum IoT verification, model-checking dynamical systems
+  - 1 strong-match position (score 4): Lean proof assistant benchmarking
+- Total active postings: 111+ across Inria centers
 - Strong representation in formal verification and proof assistant development
-- Most positions are PhD (3yr) or PostDoc (12-24mo); few permanent roles
-- Geographic distribution: Rennes, Nantes, Lyon, Lorraine, Grenoble, Paris-Saclay, Montpellier
-- Only 3 positions in Paris/IDF, indicating relocation typically required
+- Most positions are PhD (3yr) or PostDoc (12-24mo); few permanent CDI roles
+- Geographic distribution: Rennes, Nantes, Lyon, Villers-lès-Nancy, Grenoble, Paris-Saclay, Montpellier
+- Only 2-3 positions in central Paris; Île-de-France region offers better options (Saclay, Gif-sur-Yvette)
